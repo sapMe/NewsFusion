@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="matlabi" type="Native" />
+      <mapping pattern="aashiqui" type="Native" />
+      <mapping ext="mp3" type="Native" />
+    </extensionMap>
+  </component>
+</application>
